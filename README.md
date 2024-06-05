@@ -1,11 +1,18 @@
-<h1 align="center">Hi, I'm Martio Husein Samsu</h1>
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 3em; color: #4A90E2; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Martio Husein Samsu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</h1>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/Sketioo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sketioo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Sketioo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sketioo&layout=compact&theme=algolia"/>
   </a>
-</p>
+  <a href="https://github.com/Sketioo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sketioo&theme=algolia" alt="GitHub Streak Stats">
+  </a>
+</div>
 
 ### About Me
 - 🔭 I’m currently working on **GetHub** as a backend developer
@@ -42,7 +49,6 @@
 
 ### Connect with Me
 <p align="left">
- 
   <a href="https://www.linkedin.com/in/martio-husein-samsu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
@@ -53,10 +59,3 @@
 
 ### Quotes
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
-
-### GitHub Stats
-<p align="center">
-  <a href="https://github.com/Sketioo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sketioo&theme=algolia" alt="GitHub Streak Stats">
-  </a>
-</p>
