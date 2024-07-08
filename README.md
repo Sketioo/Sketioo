@@ -14,13 +14,13 @@
   </a>
 </div>
 
-### About Me
+## About Me
 - 🔭 I’m currently working on **GetHub** as a backend developer
 - 🌱 I’m currently learning **JavaScript related tech and tools for backend development**
 - 💬 Ask me about **backend related topics**
 - 📫 How to reach me: [martiohusein27@gmail.com](mailto:martiohusein27@gmail.com)
 
-### Technologies & Tools
+## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
@@ -43,11 +43,11 @@
 ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=xampp)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-### Featured Projects
+## Featured Projects
 - [**YelpCamp**](https://github.com/Sketioo/yelp-camp): YelpCamp is a self-directed web application project designed for me to learn and practice full-stack web development skills in a fun and engaging way.
 - [**E-commerce**](https://github.com/Sketioo/e-commerce): This website functions as an online directory specifically for Micro, Small and Medium Enterprises (MSMEs). I make this web for practicing my understanding about how to create an e-commerce.
 
-### Connect with Me
+## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/martio-husein-samsu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
@@ -57,5 +57,5 @@
   </a>
 </p>
 
-### Quotes
+## Quotes
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
