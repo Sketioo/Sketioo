@@ -16,7 +16,7 @@
 
 ## About Me
 - 🔭 I’m currently working on **GetHub** as a backend developer
-- 🌱 I’m currently learning **JavaScript related tech and tools for backend development**
+- 🌱 I’m currently learning **JavaScript or PHP related tech and tools for backend development**
 - 💬 Ask me about **backend related topics**
 - 📫 How to reach me: [martiohusein27@gmail.com](mailto:martiohusein27@gmail.com)
 
