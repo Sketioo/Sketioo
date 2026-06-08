@@ -1,62 +1,45 @@
-# Martio Husein Samsu
+<!--
+  GitHub Profile — Sketioo
+  Clean · Dark · AI-powered
+-->
 
-Backend Developer | Software Engineer
+<div align="center">
 
-Building production-ready backend systems, cloud-native applications,
-and AI-powered solutions.
+# Hey, I'm Sketioo 👋
 
-## Current Focus
+**Full-stack Engineer · Backend-first · AI Integrator**
 
-- Backend Engineering
-- Distributed Systems
-- AI Integration
-- PostgreSQL Optimization
-- Cloud Infrastructure
+Building scalable backend systems & clean APIs.
+Currently deep into LLM integration and AI-powered products.
 
-## Selected Projects
+📍 Indonesia &nbsp;|&nbsp; 🤝 Open to collaborate &nbsp;|&nbsp; 🤖 AI enthusiast
 
-### Puspadaya
-Healthcare research platform serving 1,600+ healthcare workers.
+</div>
 
-Stack:
-NestJS • PostgreSQL • Docker • DeepSeek AI
+---
 
-### AI Resume Generator
-AI-powered platform for generating professional resumes.
+## 🛠 Tech Stack
 
-Stack:
-Next.js • Python • GCP
+| Layer | Technologies |
+|---|---|
+| ⚙️ Backend | `NestJS` `Golang` `Node.js` `Laravel` |
+| 🎨 Frontend | `React` `Next.js` |
+| 🗄️ Database | `PostgreSQL` `MySQL` `MongoDB` `Redis` |
+| ☁️ Cloud & DevOps | `Docker` `GCP` `GitHub Actions` |
+| 🤖 AI | `DeepSeek` `LLM Integration` |
 
-### Mini Banking System
-Concurrent transaction system with ACID guarantees.
+---
 
-Stack:
-Golang • PostgreSQL
+## 📊 GitHub Stats
 
-## Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sketioo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sketioo&hide_border=true&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-### Backend
-⚙️ NestJS • Golang • Node.js • Laravel
+---
 
-### Frontend
-🎨 React • Next.js
-
-### Database
-🗄️ PostgreSQL • MySQL • MongoDB • Redis
-
-### Cloud & DevOps
-☁️ Docker • GCP • GitHub Actions
-
-### AI
-🤖 DeepSeek • LLM Integration
-
-## Contact
-
-LinkedIn:
-linkedin.com/in/martio-husein-samsu
-
-Email:
-martiohusein27@gmail.com
-
-Portfolio:
-portfolio.lamarfit.com
+<div align="center">
+  <i>"Build things that matter. Ship things that work."</i>
+</div>
