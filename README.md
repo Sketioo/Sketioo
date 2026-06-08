@@ -1,87 +1,62 @@
-# 👋 Hi, I'm Martio Husein Samsu
+# Martio Husein Samsu
 
-### Backend Developer | Software Engineer | Fullstack Developer
+Backend Developer | Software Engineer
 
-🚀 Building scalable backend systems, AI-powered applications, and cloud-native solutions.
+Building production-ready backend systems, cloud-native applications,
+and AI-powered solutions.
 
----
+## Current Focus
 
-## 🏆 Highlights
+- Backend Engineering
+- Distributed Systems
+- AI Integration
+- PostgreSQL Optimization
+- Cloud Infrastructure
 
-🏥 Built healthcare systems used by **1,600+ healthcare workers**
+## Selected Projects
 
-🤖 Developed AI-powered applications using **LLM Integration**
-
-☁️ Experienced with **Docker, Google Cloud, CI/CD**
-
-⚡ Backend-focused with **NestJS, Golang, PostgreSQL**
-
-🎓 Software Engineering Graduate | GPA 3.88
-
----
-
-## 💻 Tech Stack
-
-### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-
----
-
-## 🌟 Featured Projects
-
-### 🏥 Puspadaya
+### Puspadaya
 Healthcare research platform serving 1,600+ healthcare workers.
 
-**Stack:** NestJS · PostgreSQL · Docker · DeepSeek AI
+Stack:
+NestJS • PostgreSQL • Docker • DeepSeek AI
 
----
+### AI Resume Generator
+AI-powered platform for generating professional resumes.
 
-### 🤖 AI Resume Generator
-Generate professional resumes automatically using AI workflows.
+Stack:
+Next.js • Python • GCP
 
-**Stack:** Next.js · Python · GCP
+### Mini Banking System
+Concurrent transaction system with ACID guarantees.
 
----
+Stack:
+Golang • PostgreSQL
 
-### 🏦 Mini Banking System
-ACID-compliant concurrent transaction system.
+## Tech Stack
 
-**Stack:** Golang · PostgreSQL
+### Backend
+⚙️ NestJS • Golang • Node.js • Laravel
 
----
+### Frontend
+🎨 React • Next.js
 
-## 📈 GitHub Stats
+### Database
+🗄️ PostgreSQL • MySQL • MongoDB • Redis
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sketioo&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sketioo&layout=compact&theme=tokyonight"/>
-</p>
+### Cloud & DevOps
+☁️ Docker • GCP • GitHub Actions
 
----
+### AI
+🤖 DeepSeek • LLM Integration
 
-## 📫 Connect With Me
+## Contact
 
-💼 LinkedIn  
-🔗 linkedin.com/in/martio-husein-samsu
+LinkedIn:
+linkedin.com/in/martio-husein-samsu
 
-📧 Email  
-🔗 martiohusein27@gmail.com
+Email:
+martiohusein27@gmail.com
 
-🌐 Portfolio  
-🔗 portfolio.lamarfit.com
+Portfolio:
+portfolio.lamarfit.com
