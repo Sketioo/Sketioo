@@ -1,199 +1,87 @@
-# Hi, I'm Martio Husein Samsu 👋
+# 👋 Hi, I'm Martio Husein Samsu
 
-**Backend Developer | Software Engineer | Fullstack Developer**
+### Backend Developer | Software Engineer | Fullstack Developer
 
-I design and build scalable backend systems, APIs, cloud-native applications, and AI-powered solutions.
-
-Currently focused on backend engineering using **NestJS, Golang, PostgreSQL, Docker, and Google Cloud Platform**, while also delivering end-to-end products with **React.js and Next.js**.
+🚀 Building scalable backend systems, AI-powered applications, and cloud-native solutions.
 
 ---
 
-## 🚀 Highlights
+## 🏆 Highlights
 
-* 💻 4+ years building web applications and backend systems
-* 🏥 Built production systems serving **1,600+ healthcare workers**
-* 🤖 Developed AI-powered applications using LLM integrations
-* ☁️ Experienced with Docker, GCP, CI/CD, and cloud deployments
-* 📚 Backend-focused developer with strong frontend capabilities
+🏥 Built healthcare systems used by **1,600+ healthcare workers**
+
+🤖 Developed AI-powered applications using **LLM Integration**
+
+☁️ Experienced with **Docker, Google Cloud, CI/CD**
+
+⚡ Backend-focused with **NestJS, Golang, PostgreSQL**
+
+🎓 Software Engineering Graduate | GPA 3.88
 
 ---
 
-## 🛠 Core Expertise
+## 💻 Tech Stack
 
-### Backend Development
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-* NestJS
-* Golang
-* Node.js
-* Express.js
-* Laravel
-* REST API Design
-* JWT Authentication
-* Webhooks
-* Background Jobs
-
-### Frontend Development
-
-* React.js
-* Next.js
-* Vue.js
-* TypeScript
-* Tailwind CSS
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 ### Database
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-* Database Design
-* Query Optimization
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ### Cloud & DevOps
-
-* Docker
-* Google Cloud Platform
-* GitHub Actions
-* Linux
-* CI/CD
-
-### AI & Integrations
-
-* DeepSeek API
-* LLM Integration
-* AI Chatbot Development
-* WhatsApp API
-* Payment Gateway Integration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🏥 Puspadaya Research Platform
+### 🏥 Puspadaya
+Healthcare research platform serving 1,600+ healthcare workers.
 
-Multi-university healthcare research platform used by healthcare workers across Indonesia.
-
-**Tech Stack**
-
-* NestJS
-* PostgreSQL
-* Docker
-* DeepSeek API
-
-**Key Contributions**
-
-* WHO-standard nutrition calculations
-* Healthcare monitoring dashboard
-* Cadre performance scoring system
-* Real-time field visit tracking
-* AI-powered chatbot for healthcare workers
+**Stack:** NestJS · PostgreSQL · Docker · DeepSeek AI
 
 ---
 
-### 🤖 AI Resume Generation Platform
+### 🤖 AI Resume Generator
+Generate professional resumes automatically using AI workflows.
 
-AI-powered platform that generates professional resumes automatically through AI workflows.
-
-**Tech Stack**
-
-* Next.js
-* Python
-* Google Cloud Platform
-
-**Highlights**
-
-* AI-assisted resume generation
-* Automated content creation
-* Cloud deployment architecture
+**Stack:** Next.js · Python · GCP
 
 ---
 
 ### 🏦 Mini Banking System
+ACID-compliant concurrent transaction system.
 
-Concurrent banking transaction system designed with ACID-compliant operations.
-
-**Tech Stack**
-
-* Golang
-* PostgreSQL
-
-**Highlights**
-
-* Optimistic locking
-* Transaction safety
-* Race condition prevention
-* Concurrent transfer handling
+**Stack:** Golang · PostgreSQL
 
 ---
 
-### 🏢 Staff Performance Tracking System
+## 📈 GitHub Stats
 
-Performance monitoring platform replacing spreadsheet-based KPI management.
-
-**Tech Stack**
-
-* Laravel
-* PostgreSQL
-
-**Highlights**
-
-* KPI automation
-* Performance analytics
-* Management reporting
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sketioo&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sketioo&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 💼 Experience
+## 📫 Connect With Me
 
-### Fullstack Web Developer (Backend Focused)
+💼 LinkedIn  
+🔗 linkedin.com/in/martio-husein-samsu
 
-**Puspadaya Research Group**
-2024 - Present
+📧 Email  
+🔗 martiohusein27@gmail.com
 
-Building and maintaining healthcare and research platforms used by healthcare workers and government institutions.
-
-### Backend Developer Intern
-
-**PT Axios Inovasi Digital**
-2024
-
-Developed backend services using Golang and PostgreSQL for academic and administrative systems.
-
-### Cloud Computing Cohort
-
-**Bangkit Academy**
-2024
-
-Selected participant in Google's cloud computing learning path.
-
----
-
-## 🎓 Education
-
-**Bachelor of Applied Software Engineering Technology**
-Politeknik Negeri Banyuwangi
-
-GPA: 3.88 / 4.00
-
----
-
-## 📜 Certifications
-
-* Cloud Computing – Bangkit Academy
-* Backend Development with Google Cloud
-* BNSP Web Developer Certification
-* TOEFL Certification
-* TOEIC Certification
-
----
-
-## 📫 Contact
-
-* Email: [martiohusein27@gmail.com](mailto:martiohusein27@gmail.com)
-* LinkedIn: https://linkedin.com/in/martio-husein-samsu
-* GitHub: https://github.com/Sketioo
-* Portfolio: https://portfolio.lamarfit.com
-
----
-
-> Building software that solves real-world problems through scalable backend systems, cloud technologies, and AI-powered solutions.
+🌐 Portfolio  
+🔗 portfolio.lamarfit.com
