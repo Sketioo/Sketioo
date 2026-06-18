@@ -90,7 +90,7 @@ Currently deep into AI integration & LLM-powered products.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sketioo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sketioo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sketioo&hide_border=true&layout=compact&theme=github_dark&bg_color=0d1117" height="160"/>
 </p>
